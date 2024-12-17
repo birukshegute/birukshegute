@@ -1,4 +1,10 @@
+<h3 align="center">A dedicated software engineer with a solid foundation on backend development.</h3>
 
+- 🔭 I’m currently working on [Storefront Project](https://github.com/birukshegute/storefront)
+
+- 🌱 I’m currently learning **React**
+
+- 📫 How to reach me **birukshegute@gmail.com**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/biruk-shegute-sufa-b53ab5331) 
 
