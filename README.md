@@ -13,8 +13,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=birukshegute&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=birukshegute&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=birukshegute&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=birukshegute&theme=dark)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=birukshegute&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=birukshegute&theme=radical&no-frame=false&no-bg=false&margin-w=4)
