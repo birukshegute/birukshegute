@@ -8,7 +8,7 @@
 </p>
 
 - 🔭 I’m currently working on **transitioning into Cybersecurity**  
-- 🌱 I’m currently learning **Google Cybersecurity Certificate**  
+- 🌱 I’m currently learning **Google Cybersecurity Certificate**  (https://github.com/birukshegute/Google_cybersecurity_certificate)
 - 📫 Reach me at **birukshegute@gmail.com**
 
 ---
