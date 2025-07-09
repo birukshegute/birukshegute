@@ -4,8 +4,8 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=birukshegute&theme=algolia&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-    [![my badge](images/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/9b60c9ad-7d74-4f09-886e-4c4098d5db21/public_url)
   </a>
+  [![my badge](images/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/9b60c9ad-7d74-4f09-886e-4c4098d5db21/public_url)
 </p>
 
 - 🔭 I’m currently working on **transitioning into Cybersecurity**  
