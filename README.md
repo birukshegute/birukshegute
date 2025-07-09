@@ -1,24 +1,25 @@
 <h1 align="center">Hi 👋, I'm Biruk Shegute</h1>
 <h3 align="center">Aspiring Cybersecurity Analyst | Google Cybersecurity Certificate | Software Engineering Background | AWS Cloud Trainee</h3>
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=birukshegute&theme=algolia&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.credly.com/badges/9b60c9ad-7d74-4f09-886e-4c4098d5db21/public_url">
-        <img src="https://raw.githubusercontent.com/birukshegute/birukshegute/main/images/aws-certified-cloud-practitioner.png" alt="AWS Badge" width="120" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=birukshegute&theme=algolia&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on **transitioning into Cybersecurity**  
 - 🌱 I’m currently learning **Google Cybersecurity Certificate**  (https://github.com/birukshegute/Google_cybersecurity_certificate)
 - 📫 Reach me at **birukshegute@gmail.com**
+
+---
+
+### 🎖️ Badges & Certifications
+
+<p align="left">
+  <a href="https://www.credly.com/badges/9b60c9ad-7d74-4f09-886e-4c4098d5db21/public_url" target="_blank">
+    <img src="https://raw.githubusercontent.com/birukshegute/birukshegute/main/images/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner" width="150" />
+  </a>
+</p>
 
 ---
 
