@@ -5,9 +5,11 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=birukshegute&theme=algolia&no-bg=true&no-frame=true" alt="GitHub Trophies" />
   </a>
-  <a href="https://www.credly.com/badges/9b60c9ad-7d74-4f09-886e-4c4098d5db21/public_url"> 
-    <img src="https://github.com/birukshegute/birukshegute/blob/main/images/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner"> </a>
+  <a href="https://www.credly.com/badges/9b60c9ad-7d74-4f09-886e-4c4098d5db21/public_url">
+    <img src="https://raw.githubusercontent.com/birukshegute/birukshegute/main/images/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner" height="140" style="margin-left: 10px;" />
+  </a>
 </p>
+
 
 - 🔭 I’m currently working on **transitioning into Cybersecurity**  
 - 🌱 I’m currently learning **Google Cybersecurity Certificate**  (https://github.com/birukshegute/Google_cybersecurity_certificate)
