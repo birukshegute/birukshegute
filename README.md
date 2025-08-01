@@ -67,5 +67,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=birukshegute" alt="GitHub Streak Info" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=birukshegute&show_icons=true&theme=algolia&bg_color=00000000&hide_border=true&cache_seconds=86400" alt="GitHub Streak Info" />
 </p>
