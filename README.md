@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=birukshegute&show_icons=true&theme=algolia&bg_color=00000000&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=birukshegute" alt="GitHub Stats" />
 </p>
 
 <p align="center">
